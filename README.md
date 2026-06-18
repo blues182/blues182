@@ -9,7 +9,7 @@ Estudiante de Ingeniería en Sistemas Computacionales en la UDLAP 🎓 | Constru
 ## 🧠 Sobre mí
 
 - 🎓 Cursando el 7° semestre de Ing. en Sistemas Computacionales en la **UDLAP** (promedio 8.3)
-- 🚛 Desarrollé **flota-saas**, un sistema completo de gestión de flotillas vehiculares para un negocio real, diseñando yo mismo la base de datos
+- 🚛 Desarrollé **flota-saas**, un sistema completo de gestión de flotillas vehiculares para un negocio real, diseñando yo mismo l
 - 🔌 También me interesa el diseño digital: construí un sistema de estacionamiento con **FPGA y Verilog**
 - 🌱 Actualmente aprendiendo **Spring Boot** y **Node.js**
 - 🌍 Inglés nivel B2
